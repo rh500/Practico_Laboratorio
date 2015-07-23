@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8436B571-259D-4B6A-BDE2-19F8F9F04E64}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Proyecto_Laboratorio</RootNamespace>
+    <AssemblyName>Proyecto_Laboratorio</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Controles y Utilidades, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Pruebas y Ejemplos\Controles y Utilidades\Controles y Utilidades\bin\Debug\Controles y Utilidades.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Mi Biblioteca, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Mi Biblioteca\bin\Debug\Mi Biblioteca.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="crFormulario.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crFormulario.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="crIntengrantes.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>crIntengrantes.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="frmAdministradorPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdministradorPrincipal.Designer.cs">
+      <DependentUpon>frmAdministradorPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAdminInforme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAdminInforme.Designer.cs">
+      <DependentUpon>frmAdminInforme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionFormularios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionFormularios.Designer.cs">
+      <DependentUpon>frmGestionFormularios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionGrupo.Designer.cs">
+      <DependentUpon>frmGestionGrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGestionPersonas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGestionPersonas.Designer.cs">
+      <DependentUpon>frmGestionPersonas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCargarAsistencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCargarAsistencia.Designer.cs">
+      <DependentUpon>frmCargarAsistencia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEmitirPredica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEmitirPredica.Designer.cs">
+      <DependentUpon>frmEmitirPredica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGrupoPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGrupoPrincipal.Designer.cs">
+      <DependentUpon>frmGrupoPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInformeGrupo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInformeGrupo.Designer.cs">
+      <DependentUpon>frmInformeGrupo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInicio.Designer.cs">
+      <DependentUpon>frmInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGrupoGestionIntegrantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGrupoGestionIntegrantes.Designer.cs">
+      <DependentUpon>frmGrupoGestionIntegrantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLlenarFormulario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLlenarFormulario.Designer.cs">
+      <DependentUpon>frmLlenarFormulario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVisorFormulario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVisorFormulario.Designer.cs">
+      <DependentUpon>frmVisorFormulario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmVisorIntegrantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVisorIntegrantes.Designer.cs">
+      <DependentUpon>frmVisorIntegrantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="crFormulario.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crFormulario.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="crIntengrantes.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>crIntengrantes.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdministradorPrincipal.resx">
+      <DependentUpon>frmAdministradorPrincipal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAdminInforme.resx">
+      <DependentUpon>frmAdminInforme.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionFormularios.resx">
+      <DependentUpon>frmGestionFormularios.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionGrupo.resx">
+      <DependentUpon>frmGestionGrupo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGestionPersonas.resx">
+      <DependentUpon>frmGestionPersonas.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCargarAsistencia.resx">
+      <DependentUpon>frmCargarAsistencia.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEmitirPredica.resx">
+      <DependentUpon>frmEmitirPredica.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGrupoPrincipal.resx">
+      <DependentUpon>frmGrupoPrincipal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInformeGrupo.resx">
+      <DependentUpon>frmInformeGrupo.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInicio.resx">
+      <DependentUpon>frmInicio.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGrupoGestionIntegrantes.resx">
+      <DependentUpon>frmGrupoGestionIntegrantes.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLlenarFormulario.resx">
+      <DependentUpon>frmLlenarFormulario.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVisorFormulario.resx">
+      <DependentUpon>frmVisorFormulario.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVisorIntegrantes.resx">
+      <DependentUpon>frmVisorIntegrantes.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

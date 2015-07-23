@@ -1,0 +1,122 @@
+C:\Users\analaniz\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\bin\Debug\Proyecto_Laboratorio.exe
+C:\Users\analaniz\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\bin\Debug\Proyecto_Laboratorio.pdb
+C:\Users\analaniz\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\bin\Debug\Controles y Utilidades.dll
+C:\Users\analaniz\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\bin\Debug\Controles y Utilidades.pdb
+C:\Users\analaniz\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\analaniz\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmInicio.resources
+C:\Users\analaniz\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.Properties.Resources.resources
+C:\Users\analaniz\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.csproj.GenerateResource.Cache
+C:\Users\analaniz\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.exe
+C:\Users\analaniz\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.pdb
+C:\Users\analaniz\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\bin\Debug\Mi Biblioteca.pdb
+C:\Users\analaniz\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmGrupo.resources
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.exe
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.pdb
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\bin\Debug\Proyecto_Laboratorio.exe
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\bin\Debug\Proyecto_Laboratorio.pdb
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\bin\Debug\Controles y Utilidades.dll
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\bin\Debug\Mi Biblioteca.dll
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\bin\Debug\Controles y Utilidades.pdb
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\bin\Debug\Mi Biblioteca.pdb
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmInicio.resources
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.Properties.Resources.resources
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.csproj.GenerateResource.Cache
+C:\Users\analaniz\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.exe
+C:\Users\analaniz\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.pdb
+C:\Users\analaniz\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\bin\Debug\Proyecto_Laboratorio.exe
+C:\Users\analaniz\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\bin\Debug\Proyecto_Laboratorio.pdb
+C:\Users\analaniz\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\bin\Debug\Mi Biblioteca.dll
+C:\Users\analaniz\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\bin\Debug\Controles y Utilidades.pdb
+C:\Users\analaniz\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\bin\Debug\Mi Biblioteca.pdb
+C:\Users\analaniz\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\analaniz\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmGrupo.resources
+C:\Users\analaniz\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmInicio.resources
+C:\Users\analaniz\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmIntegrantes.resources
+C:\Users\analaniz\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.Properties.Resources.resources
+C:\Users\analaniz\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.csproj.GenerateResource.Cache
+C:\Users\analaniz\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmLlenarFormulario.resources
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmLlenarFormulario.resources
+C:\Users\analaniz.INDRA\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.exe
+C:\Users\analaniz.INDRA\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.pdb
+C:\Users\analaniz\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\bin\Debug\Mi Biblioteca.dll
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmCargarAsistencia.resources
+C:\Users\Alejandro\Dropbox\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.exe
+C:\Users\Alejandro\Dropbox\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.pdb
+C:\Users\Alejandro\Dropbox\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alejandro\Dropbox\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmCargarAsistencia.resources
+C:\Users\Alejandro\Dropbox\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmGrupo.resources
+C:\Users\Alejandro\Dropbox\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmInicio.resources
+C:\Users\Alejandro\Dropbox\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmIntegrantes.resources
+C:\Users\Alejandro\Dropbox\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmLlenarFormulario.resources
+C:\Users\Alejandro\Dropbox\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.Properties.Resources.resources
+C:\Users\Alejandro\Dropbox\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.csproj.GenerateResource.Cache
+C:\Users\Alejandro\Dropbox\Lab\Proyecto\Proyecto_Laboratorio\bin\Debug\Proyecto_Laboratorio.exe
+C:\Users\Alejandro\Dropbox\Lab\Proyecto\Proyecto_Laboratorio\bin\Debug\Proyecto_Laboratorio.pdb
+C:\Users\Alejandro\Dropbox\Lab\Proyecto\Proyecto_Laboratorio\bin\Debug\Controles y Utilidades.dll
+C:\Users\Alejandro\Dropbox\Lab\Proyecto\Proyecto_Laboratorio\bin\Debug\Mi Biblioteca.dll
+C:\Users\Alejandro\Dropbox\Lab\Proyecto\Proyecto_Laboratorio\bin\Debug\Controles y Utilidades.pdb
+C:\Users\Alejandro\Dropbox\Lab\Proyecto\Proyecto_Laboratorio\bin\Debug\Mi Biblioteca.pdb
+C:\Users\Alejandro\Dropbox\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmInformeGrupo.resources
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.exe
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.pdb
+C:\Users\Alejandro\Dropbox\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmVisorFormulario.resources
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\bin\Debug\Proyecto_Laboratorio.exe
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\bin\Debug\Proyecto_Laboratorio.pdb
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\bin\Debug\Mi Biblioteca.dll
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\bin\Debug\Mi Biblioteca.pdb
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmCargarAsistencia.resources
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmGrupo.resources
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmInformeGrupo.resources
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmInicio.resources
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmIntegrantes.resources
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmLlenarFormulario.resources
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmVisorFormulario.resources
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.Properties.Resources.resources
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.csproj.GenerateResource.Cache
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmInformeGrupo.resources
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmVisorFormulario.resources
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmEmitirPredica.resources
+C:\Users\aleal_000\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.exe
+C:\Users\aleal_000\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.pdb
+C:\Users\aleal_000\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\bin\Debug\Proyecto_Laboratorio.exe
+C:\Users\aleal_000\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\bin\Debug\Proyecto_Laboratorio.pdb
+C:\Users\aleal_000\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\bin\Debug\Controles y Utilidades.dll
+C:\Users\aleal_000\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\bin\Debug\Mi Biblioteca.dll
+C:\Users\aleal_000\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\bin\Debug\Controles y Utilidades.pdb
+C:\Users\aleal_000\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\bin\Debug\Mi Biblioteca.pdb
+C:\Users\aleal_000\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aleal_000\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmAdministrador.resources
+C:\Users\aleal_000\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmCargarAsistencia.resources
+C:\Users\aleal_000\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmEmitirPredica.resources
+C:\Users\aleal_000\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmGrupo.resources
+C:\Users\aleal_000\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmInformeGrupo.resources
+C:\Users\aleal_000\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmInicio.resources
+C:\Users\aleal_000\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmLlenarFormulario.resources
+C:\Users\aleal_000\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmVisorFormulario.resources
+C:\Users\aleal_000\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.Properties.Resources.resources
+C:\Users\aleal_000\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.csproj.GenerateResource.Cache
+C:\Users\aleal_000\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmGestionGrupo.resources
+C:\Users\aleal_000\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmGestionPersonas.resources
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmGestionGrupo.resources
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmGestionPersonas.resources
+C:\Users\aleal_000\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmGestionIntegrantes.resources
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmVisorIntegrantes.resources
+C:\Users\aleal_000\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmVisorIntegrantes.resources
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmGestionFormularios.resources
+C:\Users\ANALANIZ\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmAdministrador.resources
+C:\Users\ANALANIZ\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmGestionFormularios.resources
+C:\Users\ANALANIZ\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmGestionGrupo.resources
+C:\Users\ANALANIZ\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmGestionPersonas.resources
+C:\Users\ANALANIZ\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmCargarAsistencia.resources
+C:\Users\ANALANIZ\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmEmitirPredica.resources
+C:\Users\ANALANIZ\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmInformeGrupo.resources
+C:\Users\ANALANIZ\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmGestionIntegrantes.resources
+C:\Users\ANALANIZ\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmVisorFormulario.resources
+C:\Users\ANALANIZ\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmVisorIntegrantes.resources
+C:\Users\ANALANIZ\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmInformeAdmin.resources
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmAdministradorPrincipal.resources
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmAdminInforme.resources
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmGrupoPrincipal.resources
+C:\Users\Alejandro\OneDrive\Lab\Proyecto\Proyecto_Laboratorio\obj\Debug\Proyecto_Laboratorio.frmGrupoGestionIntegrantes.resources

@@ -1,0 +1,14 @@
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Controles y Utilidades\Controles y Utilidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Controles y Utilidades\Controles y Utilidades\obj\Debug\Controles_y_Utilidades.ctrUsu_Login.resources
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Controles y Utilidades\Controles y Utilidades\obj\Debug\Controles y Utilidades.csproj.GenerateResource.Cache
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Controles y Utilidades\Controles y Utilidades\bin\Debug\Controles y Utilidades.dll
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Controles y Utilidades\Controles y Utilidades\bin\Debug\Controles y Utilidades.pdb
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Controles y Utilidades\Controles y Utilidades\obj\Debug\Controles y Utilidades.dll
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Controles y Utilidades\Controles y Utilidades\obj\Debug\Controles y Utilidades.pdb
+C:\Users\analaniz\OneDrive\Lab\Pruebas y Ejemplos\Controles y Utilidades\Controles y Utilidades\bin\Debug\Controles y Utilidades.dll
+C:\Users\analaniz\OneDrive\Lab\Pruebas y Ejemplos\Controles y Utilidades\Controles y Utilidades\bin\Debug\Controles y Utilidades.pdb
+C:\Users\analaniz\OneDrive\Lab\Pruebas y Ejemplos\Controles y Utilidades\Controles y Utilidades\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\analaniz\OneDrive\Lab\Pruebas y Ejemplos\Controles y Utilidades\Controles y Utilidades\obj\Debug\Controles_y_Utilidades.ctrUsu_Login.resources
+C:\Users\analaniz\OneDrive\Lab\Pruebas y Ejemplos\Controles y Utilidades\Controles y Utilidades\obj\Debug\Controles y Utilidades.csproj.GenerateResource.Cache
+C:\Users\analaniz\OneDrive\Lab\Pruebas y Ejemplos\Controles y Utilidades\Controles y Utilidades\obj\Debug\Controles y Utilidades.dll
+C:\Users\analaniz\OneDrive\Lab\Pruebas y Ejemplos\Controles y Utilidades\Controles y Utilidades\obj\Debug\Controles y Utilidades.pdb

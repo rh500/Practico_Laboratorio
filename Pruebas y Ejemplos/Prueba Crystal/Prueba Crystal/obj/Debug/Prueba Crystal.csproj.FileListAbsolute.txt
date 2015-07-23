@@ -1,0 +1,10 @@
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Prueba Crystal\Prueba Crystal\bin\Debug\Prueba Crystal.exe
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Prueba Crystal\Prueba Crystal\bin\Debug\Prueba Crystal.pdb
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Prueba Crystal\Prueba Crystal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Prueba Crystal\Prueba Crystal\obj\Debug\Prueba_Crystal.Form1.resources
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Prueba Crystal\Prueba Crystal\obj\Debug\Prueba_Crystal.Properties.Resources.resources
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Prueba Crystal\Prueba Crystal\obj\Debug\Prueba Crystal.csproj.GenerateResource.Cache
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Prueba Crystal\Prueba Crystal\obj\Debug\Prueba Crystal.exe
+C:\Users\Alejandro\Documents\Visual Studio 2008\Projects\Prueba Crystal\Prueba Crystal\obj\Debug\Prueba Crystal.pdb
+C:\Users\Alejandro\OneDrive\Lab\Pruebas y Ejemplos\Prueba Crystal\Prueba Crystal\obj\Debug\Prueba Crystal.exe
+C:\Users\Alejandro\OneDrive\Lab\Pruebas y Ejemplos\Prueba Crystal\Prueba Crystal\obj\Debug\Prueba Crystal.pdb
